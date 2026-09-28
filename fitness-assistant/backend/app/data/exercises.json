@@ -1,0 +1,296 @@
+[
+  {
+    "id": 1,
+    "title": "Push-ups",
+    "description": "Classic bodyweight press. Hands under shoulders, body in a straight line, lower the chest to the floor and press back up. Keep the core tight.",
+    "category": "Strength",
+    "level": "Beginner",
+    "muscles": [
+      "chest",
+      "triceps",
+      "shoulders",
+      "core"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Bodyweight Squats",
+    "description": "Feet shoulder-width apart, sit back and down as if into a chair, keep the chest up and knees tracking over the toes, then drive up through the heels.",
+    "category": "Strength",
+    "level": "Beginner",
+    "muscles": [
+      "quads",
+      "glutes",
+      "hamstrings",
+      "legs"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Lunges",
+    "description": "Step forward and lower until both knees reach about 90 degrees, then push back to standing. Alternate legs. Great for balance and leg strength.",
+    "category": "Strength",
+    "level": "Beginner",
+    "muscles": [
+      "quads",
+      "glutes",
+      "hamstrings",
+      "legs"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Plank",
+    "description": "Hold a straight line from head to heels on forearms and toes. Squeeze the glutes and abs. Start with 20 to 30 seconds and build up.",
+    "category": "Core",
+    "level": "Beginner",
+    "muscles": [
+      "abs",
+      "core",
+      "shoulders"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Glute Bridge",
+    "description": "Lie on your back with knees bent, drive the hips up by squeezing the glutes, pause at the top, and lower slowly. Good for glutes and lower back support.",
+    "category": "Strength",
+    "level": "Beginner",
+    "muscles": [
+      "glutes",
+      "hamstrings",
+      "core"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Dumbbell Rows",
+    "description": "Hinge forward with a flat back and pull a dumbbell to your hip, squeezing the shoulder blade. Builds the back and biceps.",
+    "category": "Strength",
+    "level": "Intermediate",
+    "muscles": [
+      "back",
+      "lats",
+      "biceps"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Deadlift",
+    "description": "Hinge at the hips with a neutral spine and lift the bar by driving through the floor. A full-body strength lift; learn the form with light weight first.",
+    "category": "Strength",
+    "level": "Advanced",
+    "muscles": [
+      "back",
+      "glutes",
+      "hamstrings",
+      "core"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Overhead Press",
+    "description": "Press a barbell or dumbbells from shoulder height to overhead with the core braced. Builds shoulders and triceps.",
+    "category": "Strength",
+    "level": "Intermediate",
+    "muscles": [
+      "shoulders",
+      "triceps",
+      "core"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Pull-ups",
+    "description": "Hang from a bar and pull the chin over it, controlling the descent. Use a band or negatives if you cannot do a full rep yet.",
+    "category": "Strength",
+    "level": "Advanced",
+    "muscles": [
+      "back",
+      "lats",
+      "biceps"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Burpees",
+    "description": "From standing, drop to a squat, jump the feet back to a plank, do a push-up, jump forward and leap up. Intense full-body conditioning.",
+    "category": "Cardio",
+    "level": "Intermediate",
+    "muscles": [
+      "full body",
+      "legs",
+      "chest",
+      "core"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Jumping Jacks",
+    "description": "Jump the feet out while raising the arms overhead, then return. An easy warm-up and light cardio exercise.",
+    "category": "Cardio",
+    "level": "Beginner",
+    "muscles": [
+      "full body",
+      "calves",
+      "shoulders"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Mountain Climbers",
+    "description": "In a high plank, drive the knees alternately toward the chest at a fast pace. Raises the heart rate and works the core.",
+    "category": "Cardio",
+    "level": "Intermediate",
+    "muscles": [
+      "core",
+      "abs",
+      "shoulders",
+      "legs"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "High Knees",
+    "description": "Run in place lifting the knees to hip height with quick arm swings. A simple cardio and warm-up drill.",
+    "category": "Cardio",
+    "level": "Beginner",
+    "muscles": [
+      "legs",
+      "core",
+      "calves"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Brisk Walking",
+    "description": "Walk at a pace that raises your breathing but still lets you talk. Low impact, excellent for fat loss and heart health, 30 to 45 minutes.",
+    "category": "Cardio",
+    "level": "Beginner",
+    "muscles": [
+      "legs",
+      "glutes",
+      "calves"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Interval Running",
+    "description": "Alternate 1 minute fast running with 1 to 2 minutes easy jogging for 15 to 25 minutes. Improves endurance and burns calories efficiently.",
+    "category": "Cardio",
+    "level": "Intermediate",
+    "muscles": [
+      "legs",
+      "glutes",
+      "calves"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Jump Rope",
+    "description": "Skip with a rope using small hops on the balls of the feet. Trains coordination, stamina and calves. Start with 30-second rounds.",
+    "category": "Cardio",
+    "level": "Intermediate",
+    "muscles": [
+      "calves",
+      "shoulders",
+      "legs"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Bicycle Crunches",
+    "description": "Lie on your back, bring opposite elbow to knee in a pedaling motion without pulling on the neck. Targets the abs and obliques.",
+    "category": "Core",
+    "level": "Beginner",
+    "muscles": [
+      "abs",
+      "obliques",
+      "core"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Russian Twists",
+    "description": "Sit leaning back with feet raised or on the floor, rotate the torso side to side, optionally holding a weight. Works the obliques.",
+    "category": "Core",
+    "level": "Intermediate",
+    "muscles": [
+      "obliques",
+      "abs",
+      "core"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Dead Bug",
+    "description": "Lie on your back with arms up and knees at 90 degrees, extend the opposite arm and leg while keeping the lower back flat. A safe core stabilizer.",
+    "category": "Core",
+    "level": "Beginner",
+    "muscles": [
+      "core",
+      "abs",
+      "hip flexors"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Cat-Cow Stretch",
+    "description": "On hands and knees, alternate arching and rounding the spine with the breath. Relieves back stiffness and warms up the spine.",
+    "category": "Mobility",
+    "level": "Beginner",
+    "muscles": [
+      "back",
+      "spine",
+      "core"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Hip Flexor Stretch",
+    "description": "In a half-kneeling lunge, tuck the pelvis and shift forward until you feel a stretch at the front of the hip. Hold 30 seconds per side.",
+    "category": "Mobility",
+    "level": "Beginner",
+    "muscles": [
+      "hip flexors",
+      "quads",
+      "glutes"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Child's Pose",
+    "description": "Kneel, sit back on the heels and reach the arms forward with the forehead down. A relaxing stretch for back and shoulders after training.",
+    "category": "Mobility",
+    "level": "Beginner",
+    "muscles": [
+      "back",
+      "shoulders",
+      "hips"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Hamstring Stretch",
+    "description": "Sit or stand and reach toward the toes with a straight back until you feel the back of the thigh stretch. Hold 30 seconds, no bouncing.",
+    "category": "Mobility",
+    "level": "Beginner",
+    "muscles": [
+      "hamstrings",
+      "calves",
+      "back"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Kettlebell Swing",
+    "description": "Hinge and snap the hips forward to swing the kettlebell to chest height. Builds power in glutes and hamstrings and doubles as cardio.",
+    "category": "Strength",
+    "level": "Intermediate",
+    "muscles": [
+      "glutes",
+      "hamstrings",
+      "core"
+    ]
+  }
+]
